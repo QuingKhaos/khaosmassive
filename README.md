@@ -1,10 +1,16 @@
-[![Factorio mod portal page](https://img.shields.io/badge/dynamic/json?color=orange&label=Factorio&query=downloads_count&suffix=%20downloads&url=https%3A%2F%2Fmods.factorio.com%2Fapi%2Fmods%2F###NAME###&style=for-the-badge)](https://mods.factorio.com/mod/###NAME###)
-[![Crowdin translate](https://img.shields.io/badge/Crowdin-Translate-cornflowerblue?style=for-the-badge)](https://crowdin.com/project/factorio-mods-localization)
-[![GitHub build status: CI](https://img.shields.io/github/actions/workflow/status/QuingKhaos/###NAME###/ci.yml?branch=main&label=CI&style=for-the-badge)](https://github.com/QuingKhaos/###NAME###/actions?query=workflow%3ACI)
-[![GitHub build status: Quality Assurance](https://img.shields.io/github/actions/workflow/status/QuingKhaos/###NAME###/qa.yml?branch=main&label=QA&style=for-the-badge)](https://github.com/QuingKhaos/###NAME###/actions?query=workflow%3A%22Quality+Assurance%22)
-[![GitHub issues: bugs](https://img.shields.io/github/issues/QuingKhaos/###NAME###/bug?label=Bug%20Reports&style=for-the-badge)](https://github.com/QuingKhaos/###NAME###/issues?q=is%3Aissue%20state%3Aopen%20label%3Abug)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/QuingKhaos/###NAME###?label=Pull%20Requests&style=for-the-badge)](https://github.com/QuingKhaos/###NAME###/pulls)
+[![Factorio mod portal page](https://img.shields.io/badge/dynamic/json?color=orange&label=Factorio&query=downloads_count&suffix=%20downloads&url=https%3A%2F%2Fmods.factorio.com%2Fapi%2Fmods%2Fkhaosmassive&style=for-the-badge)](https://mods.factorio.com/mod/khaosmassive)
+[![GitHub issues: bugs](https://img.shields.io/github/issues/QuingKhaos/khaosmassive/bug?label=Bug%20Reports&style=for-the-badge)](https://github.com/QuingKhaos/khaosmassive/issues?q=is%3Aissue%20state%3Aopen%20label%3Abug)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/QuingKhaos/khaosmassive?label=Pull%20Requests&style=for-the-badge)](https://github.com/QuingKhaos/khaosmassive/pulls)
 
-# ###TITLE###
+# Massive Planets and More
 
-###DESCRIPTION###
+MPM intends to combine most modded planets and other content into a coherent gaming experience. Its design philosophy is
+to provide a consistent and balanced gameplay experience, while also being compatible with many other mods.
+
+Version 0.0.0 is a no content release for you to discover and bookmark the mod :D
+
+## Versioning
+
+This mod adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html), meaning breaking changes to your base
+will be indicated by a change in the major version number, while new features will be indicated by a change in the minor
+version number. Bug fixes and other minor changes will be indicated by a change in the patch version number.
