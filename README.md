@@ -7,7 +7,10 @@
 MPM intends to combine most modded planets and other content into a coherent gaming experience. Its design philosophy is
 to provide a consistent and balanced gameplay experience, while also being compatible with many other mods.
 
-Version 0.0.0 is a no content release for you to discover and bookmark the mod :D
+## Included Planets
+
+- **[Lignumis](https://mods.factorio.com/mod/lignumis)** - Extended Cut: Recommended to install [inserter fuel leech](https://mods.factorio.com/mod/InserterFuelLeech)
+  for the initial burner phase.
 
 ## Versioning
 

@@ -4,14 +4,32 @@
   "description": "Combines most modded planets and other content into a coherent gaming experience.",
   "author": "QuingKhaos",
   "homepage": "",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
     "space-age >= 2.0.77",
 
+    "cf-lib >= 1.6.0",
+
     "AsteroidBelt >= 1.2.10",
     "Better_Starmap_Background >= 2.3.0",
-    "redrawn-space-compat-fixes >= 1.0.48"
+    "redrawn-space-compat-fixes >= 1.0.48",
+
+    "BarrelFluidIcons >= 1.1.1",
+    "barrel-stages >= 2.0.1",
+    "barreling-group2 >= 0.5.1",
+    "bioprocessing-tab >= 1.5.0",
+    "SchallCircuitGroup >= 2.0.1",
+    "SchallTransportGroup >= 2.0.2",
+    "science-tab >= 1.10.0",
+
+    "lignumis-cf >= 1.2.2",
+    "big-wooden-pole >= 0.2.1",
+    "Diversitree >= 1.1.0",
+    "wood-industry >= 2.1.8",
+    "wood-logistics >= 2.5.5",
+    "wood-military >= 2.5.2",
+    "(?) InserterFuelLeech >= 1.0.4"
   ]
 }
