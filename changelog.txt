@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2026-07-03
+  Compatibility:
+    - Add optional Massive Planets and More - Lane Balancers mod to dependencies.
+    - Add optional Massive Planets and More - Loaders Modernized mod to dependencies.
+    - Fix inserter-fuel-leech being a hidden dependency.
+---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2026-07-03
   Bugfixes:

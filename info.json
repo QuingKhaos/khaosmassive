@@ -4,7 +4,7 @@
   "description": "Combines most modded planets and other content into a coherent gaming experience.",
   "author": "QuingKhaos",
   "homepage": "",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
@@ -12,6 +12,9 @@
 
     "cf-lib >= 1.6.0",
     "khaoslib >= 1.0.0",
+
+    "? khaosmassive-lane-balancers >= 1.0.0",
+    "? khaosmassive-loaders-modernized >= 1.0.0",
 
     "AsteroidBelt >= 1.2.10",
     "Better_Starmap_Background >= 2.3.0",
@@ -31,6 +34,6 @@
     "wood-industry >= 2.1.8",
     "wood-logistics >= 2.5.5",
     "wood-military >= 2.5.2",
-    "(?) InserterFuelLeech >= 1.0.4"
+    "? InserterFuelLeech >= 1.0.4"
   ]
 }

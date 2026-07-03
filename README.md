@@ -12,6 +12,13 @@ to provide a consistent and balanced gameplay experience, while also being compa
 - **[Lignumis](https://mods.factorio.com/mod/lignumis)** - Extended Cut: Recommended to install [inserter fuel leech](https://mods.factorio.com/mod/InserterFuelLeech)
   for the initial burner phase.
 
+## Compatible mods
+
+- **[Lane Balancers](https://mods.factorio.com/mod/khaosmassive-lane-balancers)** - Adds lane balancers for all vanilla
+  and modded belts.
+- **[Loaders Modernized](https://mods.factorio.com/mod/khaosmassive-loaders-modernized)** - Adds loaders for all vanilla
+  and modded belts, as well as a stacking loader.
+
 ## Versioning
 
 This mod adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html), meaning breaking changes to your base
