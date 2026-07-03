@@ -4,13 +4,14 @@
   "description": "Combines most modded planets and other content into a coherent gaming experience.",
   "author": "QuingKhaos",
   "homepage": "",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
     "space-age >= 2.0.77",
 
     "cf-lib >= 1.6.0",
+    "khaoslib >= 1.0.0",
 
     "AsteroidBelt >= 1.2.10",
     "Better_Starmap_Background >= 2.3.0",

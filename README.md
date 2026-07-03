@@ -4,7 +4,7 @@
 
 # Massive Planets and More
 
-MPM intends to combine most modded planets and other content into a coherent gaming experience. Its design philosophy is
+MPM intends to combine most modded planets and other content into a coherent gaming experience. The idea behind it is
 to provide a consistent and balanced gameplay experience, while also being compatible with many other mods.
 
 ## Included Planets
