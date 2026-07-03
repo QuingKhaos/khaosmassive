@@ -11,7 +11,7 @@
     "space-age >= 2.0.77",
 
     "cf-lib >= 1.6.0",
-    "khaoslib >= 1.0.0",
+    "khaoslib >= 1.2.1",
 
     "? khaosmassive-lane-balancers >= 1.0.0",
     "? khaosmassive-loaders-modernized >= 1.0.0",
@@ -29,6 +29,7 @@
     "science-tab >= 1.10.0",
 
     "agri-tower-mk2 >= 0.2.0",
+    "burnerBiochamber >= 1.0.6",
     "carbonut_agriculture >= 0.4.0",
 
     "lignumis-cf >= 1.2.2",
@@ -38,5 +39,6 @@
     "wood-logistics >= 2.5.5",
     "wood-military >= 2.5.2",
     "? InserterFuelLeech >= 1.0.4"
-  ]
+  ],
+  "space_travel_required": true
 }
