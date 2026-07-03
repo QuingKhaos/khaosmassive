@@ -3,6 +3,7 @@ Version: 2.0.0
 Date: ???
   Features:
     - Replace coal on Vulcanus with Carbonut Agriculture.
+    - Add agricultural tower mk2 for more dense planting and faster harvesting.
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.0
 Date: 2026-07-03
