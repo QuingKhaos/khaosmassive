@@ -5,7 +5,8 @@
 # Massive Planets and More
 
 MPM intends to combine most modded planets and other content into a coherent gaming experience. The idea behind it is
-to provide a consistent and balanced gameplay experience, while also being compatible with many other mods.
+to provide a consistent and balanced gameplay experience, while also being compatible with many other mods. Additionally
+MPM adds a few challenges to the base game planets too, to keep the fun up :D
 
 ## Included Planets
 
