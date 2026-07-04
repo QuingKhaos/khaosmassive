@@ -46,7 +46,10 @@
     "wood-industry >= 2.1.8",
     "wood-logistics >= 2.5.5",
     "wood-military >= 2.5.2",
-    "? InserterFuelLeech >= 1.0.4"
+    "? InserterFuelLeech >= 1.0.4",
+
+    "planet-muluna >= 2.2.7",
+    "mooncrete >= 1.0.3"
   ],
   "space_travel_required": true
 }

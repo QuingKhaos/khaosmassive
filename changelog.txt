@@ -2,6 +2,7 @@
 Version: 2.0.0
 Date: ???
   Major Features:
+    - Add Muluna, a moon of Nauvis.
     - Replace coal on Vulcanus with Carbonut Agriculture.
     - Add pHactorio or more interesting chemical processes (has impact on Vulcanus).
   Minor Features:
@@ -10,6 +11,8 @@ Date: ???
     - Add Gleba juice as alternative for spoilage to carbon.
     - Add tungsten military options, as well as a tungsten axe for faster hand mining.
     - Add wood pyrolysis for more wood based oil processes as another reward from Gleba.
+  Changes:
+    - Make hazard concrete and hazard refined concrete slow down players and vehicles.
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.0
 Date: 2026-07-03
