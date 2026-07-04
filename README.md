@@ -16,6 +16,7 @@ MPM adds a few challenges to the base game planets too, to keep the fun up :D
 
 ## Compatible mods
 
+- **[Factorissimo](https://mods.factorio.com/mod/khaosmassive-factorissimo)** - Adapted to MPM progression.
 - **[Lane Balancers](https://mods.factorio.com/mod/khaosmassive-lane-balancers)** - Adds lane balancers for all vanilla
   and modded belts.
 - **[Loaders Modernized](https://mods.factorio.com/mod/khaosmassive-loaders-modernized)** - Adds loaders for all vanilla
