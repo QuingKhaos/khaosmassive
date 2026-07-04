@@ -17,6 +17,18 @@ Settings.force("astroponics-crude-oil", true)
 Settings.force("asteroid-belt-1-enabled", false)
 Settings.force("asteroid-belt-2-enabled", false)
 
+-- Burner Biochamber
+Settings.forceDefault("bbio-fuel-consumption")
+Settings.forceDefault("bbio-pollution")
+Settings.forceDefault("bbio-enable-solid-fuel-recipes")
+Settings.forceDefault("bbio-list-type")
+Settings.forceDefault("bbio-block-placement-nauvis")
+Settings.forceDefault("bbio-block-placement-vulcanus")
+Settings.forceDefault("bbio-block-placement-gleba")
+Settings.forceDefault("bbio-block-placement-fulgora")
+Settings.forceDefault("bbio-block-placement-aquilo")
+Settings.forceDefault("bbio-block-placement-space-platform")
+
 -- Coralmium Agriculture
 Settings.force("coralmium-modify-vanilla", true)
 
