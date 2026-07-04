@@ -1,2 +1,2 @@
 require("compat.carbonut-agriculture")
-require("compat.lignumis")
+require("prototypes.content.wood-pyrolysis.compat.lignumis")

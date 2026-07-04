@@ -30,8 +30,10 @@
 
     "agri-tower-mk2 >= 0.2.0",
     "burnerBiochamber >= 1.0.6",
-    "carbonut_agriculture >= 0.4.0",
     "gleba-juice >= 1.0.0",
+    "wood-pyrolysis >= 1.2.1",
+
+    "carbonut_agriculture >= 0.4.0",
     "tungsten-axe >= 1.0.0",
     "tungsten-expansion >= 1.0.2",
     "tungsten-shells >= 0.2.6",
