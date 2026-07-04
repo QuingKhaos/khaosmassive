@@ -4,6 +4,7 @@ Date: ???
   Features:
     - Replace coal on Vulcanus with Carbonut Agriculture.
     - Add agricultural tower mk2 for more dense planting and faster harvesting.
+    - Add burner biochamber to Gleba, which can be placed on non spoilage related planets.
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.0
 Date: 2026-07-03
