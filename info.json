@@ -28,6 +28,8 @@
     "SchallTransportGroup >= 2.0.2",
     "science-tab >= 1.10.0",
 
+    "pHactorio >= 0.2.1",
+
     "agri-tower-mk2 >= 0.2.0",
     "burnerBiochamber >= 1.0.6",
     "gleba-juice >= 1.0.0",
