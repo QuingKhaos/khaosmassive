@@ -28,6 +28,7 @@ Settings.forceDefault("bbio-block-placement-gleba")
 Settings.forceDefault("bbio-block-placement-fulgora")
 Settings.forceDefault("bbio-block-placement-aquilo")
 Settings.forceDefault("bbio-block-placement-space-platform")
+Settings.forceDefault("bbio-block-placement-muluna")
 
 -- Coralmium Agriculture
 Settings.force("coralmium-modify-vanilla", true)
