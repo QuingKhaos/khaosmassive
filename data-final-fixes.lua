@@ -1,5 +1,6 @@
 require("prototypes.content.agricultural-tower-mk2")
 require("prototypes.content.burner-biochamber")
 require("prototypes.content.carbonut-agriculture")
+require("prototypes.content.gleba-juice.compat")
 require("prototypes.content.wood-logistics.compat")
 require("prototypes.planets.lignumis.compat")

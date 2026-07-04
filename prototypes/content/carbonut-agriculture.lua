@@ -15,7 +15,7 @@ khaoslib_recipe:load({
     {icon = "__space-age__/graphics/icons/spoilage.png", draw_background = true},
   },
   category = "kiln-smelting",
-  order = "b[agriculture]-e[spoilage]",
+  order = "b[agriculture]-a[carbonut]c",
   group = "intermediate-products",
   subgroup = "agriculture-processes",
   enabled = false,
