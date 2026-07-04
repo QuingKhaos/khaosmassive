@@ -2,6 +2,7 @@
 Version: 2.1.0
 Date: 2026-07-04
   Bugfixes:
+    - Disallow burner biochamber placement on Lignumis, as it is a bioprocessing related planet.
     - Force default for burner biochamber placement on Muluna.
   Compatibility:
     - Add optional Massive Planets and More - Factorissimo mod to dependencies.
