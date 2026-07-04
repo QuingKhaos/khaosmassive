@@ -1,10 +1,10 @@
 ---------------------------------------------------------------------------------------------------
 Version: 2.0.0
-Date: ???
+Date: 2026-07-04
   Major Features:
     - Add Muluna, a moon of Nauvis.
     - Replace coal on Vulcanus with Carbonut Agriculture.
-    - Add pHactorio or more interesting chemical processes (has impact on Vulcanus).
+    - Add pHactorio for more interesting chemical processes (has impact on Vulcanus).
   Minor Features:
     - Add agricultural tower mk2 for more dense planting and faster harvesting.
     - Add burner biochamber to Gleba, which can be placed on non spoilage related planets.
