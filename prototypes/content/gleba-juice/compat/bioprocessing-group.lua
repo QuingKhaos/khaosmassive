@@ -1,4 +1,4 @@
-khaoslib_recipe = require("__khaoslib__.recipe")
+local khaoslib_recipe = require("__khaoslib__.recipe")
 
 data:extend({
   {

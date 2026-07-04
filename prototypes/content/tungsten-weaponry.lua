@@ -1,5 +1,5 @@
-khaoslib_recipe = require("__khaoslib__.recipe")
-khaoslib_technology = require("__khaoslib__.technology")
+local khaoslib_recipe = require("__khaoslib__.recipe")
+local khaoslib_technology = require("__khaoslib__.technology")
 
 -- Move tungsten shells to tungsten weaponry tech and use tungsten carbides instead of tungsten plates
 khaoslib_recipe:load("tungsten-shotgun-shell")

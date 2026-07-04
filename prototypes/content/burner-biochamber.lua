@@ -1,4 +1,4 @@
-khaoslib_technology = require("__khaoslib__.technology")
+local khaoslib_technology = require("__khaoslib__.technology")
 
 -- Lock burner biochamber behind Gleba research
 khaoslib_technology:load("biochamber")

@@ -1,5 +1,5 @@
-khaoslib_recipe = require("__khaoslib__.recipe")
-khaoslib_technology = require("__khaoslib__.technology")
+local khaoslib_recipe = require("__khaoslib__.recipe")
+local khaoslib_technology = require("__khaoslib__.technology")
 
 -- Place Vulcanus planet discovery back to where it belongs
 khaoslib_technology:load("planet-discovery-vulcanus")
