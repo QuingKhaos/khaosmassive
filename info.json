@@ -32,6 +32,9 @@
     "burnerBiochamber >= 1.0.6",
     "carbonut_agriculture >= 0.4.0",
     "gleba-juice >= 1.0.0",
+    "tungsten-axe >= 1.0.0",
+    "tungsten-expansion >= 1.0.2",
+    "tungsten-shells >= 0.2.6",
 
     "lignumis-cf >= 1.2.2",
     "big-wooden-pole >= 0.2.1",
