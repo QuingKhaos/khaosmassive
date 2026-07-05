@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.2.0
+Date: 2026-07-05
+  Compatibility:
+    - Mark as incompatible with Any Planet Start, as this does not fit in the intended progression of the mod.
+---------------------------------------------------------------------------------------------------
 Version: 2.1.1
 Date: 2026-07-05
   Bugfixes:

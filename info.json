@@ -4,7 +4,7 @@
   "description": "Combines most modded planets and other content into a coherent gaming experience.",
   "author": "QuingKhaos",
   "homepage": "",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
@@ -17,6 +17,7 @@
     "? khaosmassive-lane-balancers >= 1.0.0",
     "? khaosmassive-loaders-modernized >= 1.0.0",
 
+    "! any-planet-start",
     "AsteroidBelt >= 1.2.10",
     "Better_Starmap_Background >= 2.3.0",
     "redrawn-space-compat-fixes >= 1.0.48",
