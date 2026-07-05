@@ -3,6 +3,8 @@ Version: 2.1.1
 Date: 2026-07-05
   Bugfixes:
     - Fix unlock for Mooncrete, creating its own new technology to unlock it.
+  Changes:
+    - Buff vehicle friction modifier for Mooncrete to be similar to concrete.
 ---------------------------------------------------------------------------------------------------
 Version: 2.1.0
 Date: 2026-07-04

@@ -3,7 +3,10 @@ khaoslib_technology = require("__khaoslib__.technology")
 
 -- Same walking speed as their concrete equivalents for mooncrete
 data.raw["tile"]["mooncrete"].walking_speed_modifier = data.raw["tile"]["concrete"].walking_speed_modifier
+data.raw["tile"]["mooncrete"].vehicle_friction_modifier = data.raw["tile"]["concrete"].vehicle_friction_modifier
+
 data.raw["tile"]["refined-mooncrete"].walking_speed_modifier = data.raw["tile"]["refined-concrete"].walking_speed_modifier
+data.raw["tile"]["refined-mooncrete"].vehicle_friction_modifier = data.raw["tile"]["refined-concrete"].vehicle_friction_modifier
 
 -- Create new technology for mooncrete and refined mooncrete
 khaoslib_recipe:load("mooncrete")
