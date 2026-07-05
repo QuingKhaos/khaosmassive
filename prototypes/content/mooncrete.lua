@@ -1,5 +1,5 @@
-khaoslib_recipe = require("__khaoslib__.recipe")
-khaoslib_technology = require("__khaoslib__.technology")
+local khaoslib_recipe = require("__khaoslib__.recipe")
+local khaoslib_technology = require("__khaoslib__.technology")
 
 -- Same walking speed as their concrete equivalents for mooncrete
 data.raw["tile"]["mooncrete"].walking_speed_modifier = data.raw["tile"]["concrete"].walking_speed_modifier
