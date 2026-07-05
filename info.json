@@ -42,6 +42,15 @@
     "tungsten-expansion >= 1.0.2",
     "tungsten-shells >= 0.2.6",
 
+    "cubium >= 1.0.28",
+    "cubium-cubnut-agriculture >= 1.0.0",
+    "cubium-lignumis-compat >= 1.0.0",
+    "cubium-muluna-compat >= 1.1.0",
+    "cubium-planet-discovery-patch >= 1.0.0",
+    "cubium-planetary-cubic-science-packs >= 1.1.0",
+    "cubium-science-pack-reorder >= 1.0.0",
+    "cubium-space-science-pack >= 1.1.1",
+
     "lignumis-cf >= 1.2.2",
     "big-wooden-pole >= 0.2.1",
     "Diversitree >= 1.1.0",

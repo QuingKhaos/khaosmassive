@@ -33,6 +33,10 @@ Settings.forceDefault("bbio-block-placement-muluna")
 -- Coralmium Agriculture
 Settings.force("coralmium-modify-vanilla", true)
 
+-- Cubium
+Settings.forceDefault("check-this-if-cubium-start")
+Settings.forceDefault("check-this-if-aquilo-start")
+
 -- Diversitree
 Settings.force("s6x-landfill-trees", true)
 Settings.force("s6x-pollution-immune-trees", false)
