@@ -10,6 +10,7 @@ MPM adds a few challenges to the base game planets too, to keep the fun up :D
 
 ## Included Planets
 
+- **[Cubium](https://mods.factorio.com/mod/cubium)** - Extended Cut
 - **[Lignumis](https://mods.factorio.com/mod/lignumis)** - Extended Cut: Recommended to install [inserter fuel leech](https://mods.factorio.com/mod/InserterFuelLeech)
   for the initial burner phase.
 - **[Muluna](https://mods.factorio.com/mod/planet-muluna)** - Extended Cut
