@@ -3,6 +3,8 @@ Version: 2.3.0
 Date: 2026-07-07
   Bugfixes:
     - Put burner lamp into correct subgroup if individual combinator subgroup setting is enabled.
+  Changes:
+    - Force setting for pHactorio's water/steam voiding.
   Compatibility:
     - Add optional Massive Planets and More - Quantum Fabricator mod to dependencies.
 ---------------------------------------------------------------------------------------------------

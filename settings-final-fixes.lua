@@ -73,6 +73,9 @@ Settings.forceDefault("platform-power-consumption")
 Settings.forceDefault("muluna-change-quality-science-pack-drain")
 Settings.forceDefault("override-space-connection")
 
+-- pHactorio
+Settings.force("s6x-ph-voiding-recipes", false)
+
 -- Science group
 Settings.force("science-tab-always-move-labs", true)
 
