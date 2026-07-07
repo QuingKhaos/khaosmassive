@@ -4,7 +4,7 @@
   "description": "Combines most modded planets and other content into a coherent gaming experience.",
   "author": "QuingKhaos",
   "homepage": "",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
@@ -16,6 +16,7 @@
     "? khaosmassive-factorissimo >= 1.0.0",
     "? khaosmassive-lane-balancers >= 1.0.0",
     "? khaosmassive-loaders-modernized >= 1.0.0",
+    "? khaosmassive-quantum-fabricator >= 1.0.0",
 
     "! any-planet-start",
     "AsteroidBelt >= 1.2.10",

@@ -1,6 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.3.0
+Date: 2026-07-07
+  Compatibility:
+    - Add optional Massive Planets and More - Quantum Fabricator mod to dependencies.
+---------------------------------------------------------------------------------------------------
 Version: 2.2.0
-Date: 2026-07-05
+Date: 2026-07-07
   Features:
     - Add Cubium as new planet.
   Compatibility:
