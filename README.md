@@ -23,7 +23,7 @@ MPM adds a few challenges to the base game planets too, to keep the fun up :D
 - **[Loaders Modernized](https://mods.factorio.com/mod/khaosmassive-loaders-modernized)** - Adds loaders for all vanilla
   and modded belts, as well as a stacking loader.
 - **[Quantum Fabricator](https://mods.factorio.com/mod/khaosmassive-quantum-fabricator)** - Digitizing chest is available
-from the start on Lignumis.
+  from the start on Lignumis.
 
 ## Versioning
 
