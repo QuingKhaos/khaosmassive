@@ -3,6 +3,7 @@ Version: 2.4.0
 Date: 2026-07-08
   Changes:
     - Refactor the way how lua files are required.
+    - Improve khaoslib usage.
   Compatibility:
     - Add optional Massive Planets and More - Frozen Goodies mod to dependencies.
 ---------------------------------------------------------------------------------------------------

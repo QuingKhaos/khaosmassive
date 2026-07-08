@@ -1,7 +1,10 @@
+local khaoslib_entity = require("__khaoslib__.entity")
 local khaoslib_recipe = require("__khaoslib__.recipe")
 
 -- Increase energy usage to be more in line with advanced buildings
-data.raw["agricultural-tower"]["agricultural-tower-mk2"].energy_usage = "1.5MW"
+khaoslib_entity:load("agricultural-tower", "agricultural-tower-mk2")
+  :set {energy_usage = "1.5MW"}
+  :commit()
 
 -- Create a more challenging recipe
 khaoslib_recipe:load("agricultural-tower-mk2")
