@@ -3,6 +3,8 @@ Version: 2.5.0
 Date: 2026-07-08
   Features:
     - Add Cerys, a moon of Fulgora.
+  Changes:
+    - Add visible planets in space.
   Compatibility:
     - Enforce usage of optional Massive Planets and More mods when compatible mods are detected.
 ---------------------------------------------------------------------------------------------------

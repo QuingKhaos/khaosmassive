@@ -23,6 +23,8 @@
     "AsteroidBelt >= 1.2.10",
     "Better_Starmap_Background >= 2.3.0",
     "redrawn-space-compat-fixes >= 1.0.48",
+    "visible-planets >= 1.7.2",
+    "vp-scale >= 1.4.1",
 
     "BarrelFluidIcons >= 1.1.1",
     "barrel-stages >= 2.0.1",
