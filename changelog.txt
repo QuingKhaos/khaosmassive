@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.5.0
+Date: 2026-07-08
+  Compatibility:
+    - Enforce usage of optional Massive Planets and More mods when compatible mods are detected.
+---------------------------------------------------------------------------------------------------
 Version: 2.4.0
 Date: 2026-07-08
   Changes:
