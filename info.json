@@ -4,7 +4,7 @@
   "description": "Combines most modded planets and other content into a coherent gaming experience.",
   "author": "QuingKhaos",
   "homepage": "",
-  "version": "2.5.0",
+  "version": "2.6.0",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
@@ -52,7 +52,7 @@
     "plutonium-filtering >= 1.0.1",
 
     "cubium >= 1.0.28",
-    "cubium-cerys-compat >= 1.0.0",
+    "cubium-cerys-compat >= 1.0.2",
     "cubium-cubnut-agriculture >= 1.0.0",
     "cubium-lignumis-compat >= 1.0.0",
     "cubium-muluna-compat >= 1.1.0",
