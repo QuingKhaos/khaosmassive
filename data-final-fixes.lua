@@ -18,6 +18,8 @@ require("__khaosmassive__.prototypes.content.wood-logistics.compat.transport-gro
 
 require("__khaosmassive__.prototypes.content.wood-pyrolysis.compat.lignumis")
 
+require("__khaosmassive__.prototypes.planets.cerys.compat.science-group")
+
 require("__khaosmassive__.prototypes.planets.cubium")
 
 require("__khaosmassive__.prototypes.planets.lignumis.compat.barreling-stages")

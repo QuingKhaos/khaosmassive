@@ -29,6 +29,14 @@ Settings.forceDefault("bbio-block-placement-fulgora")
 Settings.forceDefault("bbio-block-placement-aquilo")
 Settings.forceDefault("bbio-block-placement-space-platform")
 Settings.forceDefault("bbio-block-placement-muluna")
+Settings.forceDefault("bbio-block-placement-cerys")
+
+-- Cerys
+Settings.forceDefault("cerys-enforce-vanilla-recycling-recipes")
+Settings.force("cerys-radiative-heaters-require-cryogenic-science", true)
+Settings.force("cerys-fusion-reactor-requires-radiative-tower", true)
+Settings.forceDefault("cerys-sandbox-mode")
+Settings.forceDefault("cerys-disable-secret-cell-productivity-tech-for-legacy-saves")
 
 -- Coralmium Agriculture
 Settings.force("coralmium-modify-vanilla", true)
@@ -40,6 +48,11 @@ Settings.forceDefault("check-this-if-aquilo-start")
 -- Diversitree
 Settings.force("s6x-landfill-trees", true)
 Settings.force("s6x-pollution-immune-trees", false)
+
+-- Flare Stack
+Settings.forceDefault("flare-stack-disable-incinerators")
+Settings.forceDefault("flare-stack-fluid-rate")
+Settings.forceDefault("flare-stack-item-rate")
 
 -- Lignumis
 Settings.force("lignumis-infinite-astroponics-productivity-research", true)
