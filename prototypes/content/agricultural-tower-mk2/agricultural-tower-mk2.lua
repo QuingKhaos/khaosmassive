@@ -1,7 +1,5 @@
 local khaoslib_recipe = require("__khaoslib__.recipe")
 
-require("agricultural-tower-mk2.compat")
-
 -- Increase energy usage to be more in line with advanced buildings
 data.raw["agricultural-tower"]["agricultural-tower-mk2"].energy_usage = "1.5MW"
 

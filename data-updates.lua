@@ -1,1 +1,1 @@
-require("prototypes.content.burner-biochamber.compat-updates")
+require("__khaosmassive__.prototypes.content.burner-biochamber.compat.lignumis-updates")
