@@ -36,6 +36,8 @@
 
     "pHactorio >= 0.2.1",
 
+    "em-holmium-charging >= 1.0.0",
+
     "agri-tower-mk2 >= 0.2.0",
     "burnerBiochamber >= 1.0.6",
     "gleba-juice >= 1.0.0",

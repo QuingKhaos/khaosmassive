@@ -6,6 +6,8 @@ require("__khaosmassive__.prototypes.content.burner-biochamber.burner-biochamber
 
 require("__khaosmassive__.prototypes.content.carbonut-agriculture")
 
+require("__khaosmassive__.prototypes.content.em-holmium-charging")
+
 require("__khaosmassive__.prototypes.content.gleba-juice.compat.bioprocessing-group")
 
 require("__khaosmassive__.prototypes.content.hazard-concrete")
