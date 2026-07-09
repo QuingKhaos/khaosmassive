@@ -57,6 +57,10 @@ Settings.forceDefault("flare-stack-item-rate")
 -- Lignumis
 Settings.force("lignumis-infinite-astroponics-productivity-research", true)
 
+-- Moshine
+Settings.forceDefault("moshine-se-space-trains")
+Settings.forceDefault("moshine-long_stack_inserter")
+
 -- Muluna
 Settings.force("muluna-hardcore-restrict-crusher", true)
 Settings.force("muluna-hardcore-restrict-asteroid-collector", true)

@@ -55,6 +55,7 @@
     "cubium-cerys-compat >= 1.0.2",
     "cubium-cubnut-agriculture >= 1.0.0",
     "cubium-lignumis-compat >= 1.0.0",
+    "cubium-moshine-compat >= 1.0.0",
     "cubium-muluna-compat >= 1.1.0",
     "cubium-planet-discovery-patch >= 1.0.0",
     "cubium-planetary-cubic-science-packs >= 1.1.0",
@@ -68,6 +69,9 @@
     "wood-logistics >= 2.5.5",
     "wood-military >= 2.5.2",
     "? InserterFuelLeech >= 1.0.4",
+
+    "Moshine >= 1.1.4",
+    "moshine-solaponics >= 0.2.3",
 
     "planet-muluna >= 2.2.7",
     "mooncrete >= 1.0.3"

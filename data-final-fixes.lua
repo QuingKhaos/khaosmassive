@@ -25,3 +25,5 @@ require("__khaosmassive__.prototypes.planets.cubium")
 require("__khaosmassive__.prototypes.planets.lignumis.compat.barreling-stages")
 require("__khaosmassive__.prototypes.planets.lignumis.compat.circuit-group")
 require("__khaosmassive__.prototypes.planets.lignumis.compat.wood-walls")
+
+require("__khaosmassive__.prototypes.planets.moshine")
