@@ -4,7 +4,7 @@
   "description": "Combines most modded planets and other content into a coherent gaming experience.",
   "author": "QuingKhaos",
   "homepage": "",
-  "version": "2.6.0",
+  "version": "2.6.1",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
@@ -49,6 +49,7 @@
     "tungsten-shells >= 0.2.6",
 
     "Cerys-Moon-of-Fulgora >= 4.22.4",
+    "cerys-lunaponics >= 0.6.3",
     "cerys-methane-applications >= 1.0.2",
     "cerys-science-edit >= 1.0.0",
     "plutonium-filtering >= 1.0.1",
