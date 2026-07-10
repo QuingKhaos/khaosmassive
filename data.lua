@@ -6,6 +6,7 @@ local mod_list = {
     ["khaosmassive-lane-balancers"] = "lane-balancers",
     ["khaosmassive-loaders-modernized"] = "loaders-modernized",
     ["khaosmassive-quantum-fabricator"] = "quantum-fabricator",
+    ["khaosmassive-sushi-splitters"] = "sushi-splitters",
     ["khaosmassive-smart-inserters"] = "Smart_Inserters",
 }
 

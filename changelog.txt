@@ -3,6 +3,7 @@ Version: 2.7.0
 Date: 2026-07-09
   Compatibility:
     - Add optional Massive Planets and More - Frozen Food mod to dependencies.
+    - Add optional Massive Planets and More - Sushi Splitters mod to dependencies.
     - Add optional Massive Planets and More - Smart Inserters mod to dependencies.
 ---------------------------------------------------------------------------------------------------
 Version: 2.6.1
