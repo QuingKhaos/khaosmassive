@@ -5,6 +5,7 @@ local mod_list = {
     ["khaosmassive-lane-balancers"] = "lane-balancers",
     ["khaosmassive-loaders-modernized"] = "loaders-modernized",
     ["khaosmassive-quantum-fabricator"] = "quantum-fabricator",
+    ["khaosmassive-smart-inserters"] = "Smart_Inserters",
 }
 
 for mod_name, compatible_mod in pairs(mod_list) do

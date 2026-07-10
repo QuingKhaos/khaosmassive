@@ -19,6 +19,7 @@
     "? khaosmassive-lane-balancers >= 1.0.0",
     "? khaosmassive-loaders-modernized >= 1.0.0",
     "? khaosmassive-quantum-fabricator >= 1.0.0",
+    "? khaosmassive-smart-inserters >= 1.0.0",
 
     "! any-planet-start",
     "AsteroidBelt >= 1.2.10",

@@ -29,6 +29,8 @@ MPM adds a few challenges to the base game planets too, to keep the fun up :D
   and modded belts, as well as a stacking loader.
 - **[Quantum Fabricator](https://mods.factorio.com/mod/khaosmassive-quantum-fabricator)** - Digitizing chest is available
   from the start on Lignumis.
+- **[Smart Inserters](https://mods.factorio.com/mod/khaosmassive-smart-inserters)** - Smart Inserters can already be
+  researched on Lignumis.
 
 ## Versioning
 
