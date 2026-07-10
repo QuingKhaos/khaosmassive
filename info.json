@@ -14,7 +14,7 @@
     "khaoslib >= 1.5.0",
 
     "? khaosmassive-factorissimo >= 1.1.0",
-    "? khaosmassive-frozen-food >= 1.0.0",
+    "? khaosmassive-frozen-food >= 1.0.1",
     "? khaosmassive-frozen-goodies >= 1.0.0",
     "? khaosmassive-lane-balancers >= 1.0.0",
     "? khaosmassive-loaders-modernized >= 1.0.0",
