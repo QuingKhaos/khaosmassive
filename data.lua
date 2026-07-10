@@ -1,6 +1,7 @@
 -- Check if optional khaosmassive mods are missing, but the compatible mod is present
 local mod_list = {
     ["khaosmassive-factorissimo"] = "factorissimo-2-notnotmelon",
+    ["khaosmassive-frozen-food"] = "FrozenFood",
     ["khaosmassive-frozen-goodies"] = "frozen-goodies",
     ["khaosmassive-lane-balancers"] = "lane-balancers",
     ["khaosmassive-loaders-modernized"] = "loaders-modernized",
