@@ -3,6 +3,7 @@ Version: 2.8.1
 Date: 2026-07-11
   Bugfixes:
     - Force Moshine Solaponics settings to be defaulted to true.
+    - Clear surface conditions for wood logistics entities.
 ---------------------------------------------------------------------------------------------------
 Version: 2.8.0
 Date: 2026-07-11

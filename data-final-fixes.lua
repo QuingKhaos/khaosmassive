@@ -17,6 +17,7 @@ require("__khaosmassive__.prototypes.content.mooncrete")
 require("__khaosmassive__.prototypes.content.tungsten-weaponry")
 
 require("__khaosmassive__.prototypes.content.wood-logistics.compat.transport-group")
+require("__khaosmassive__.prototypes.content.wood-logistics.wood-logistics")
 
 require("__khaosmassive__.prototypes.content.wood-pyrolysis.compat.lignumis")
 

@@ -11,7 +11,7 @@
     "space-age >= 2.0.77",
 
     "cf-lib >= 1.6.0",
-    "khaoslib >= 1.10.0",
+    "khaoslib >= 1.12.0",
 
     "? khaosmassive-factorissimo >= 1.1.2",
     "? khaosmassive-frozen-food >= 1.1.1",
