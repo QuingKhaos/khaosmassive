@@ -4,7 +4,7 @@
   "description": "Combines most modded planets and other content into a coherent gaming experience.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "2.8.0",
+  "version": "2.8.1",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",

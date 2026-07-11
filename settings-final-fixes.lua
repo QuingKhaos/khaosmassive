@@ -61,6 +61,9 @@ Settings.force("lignumis-infinite-astroponics-productivity-research", true)
 Settings.forceDefault("moshine-se-space-trains")
 Settings.forceDefault("moshine-long_stack_inserter")
 
+-- Moshine Solaponics
+Settings.force("moshine-solaponics-modify-vanilla", true)
+
 -- Muluna
 Settings.force("muluna-hardcore-restrict-crusher", true)
 Settings.force("muluna-hardcore-restrict-asteroid-collector", true)
