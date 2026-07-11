@@ -32,10 +32,12 @@ MPM adds a few challenges to the base game planets too, to keep the fun up :D
   and modded belts, as well as a stacking loader.
 - **[Quantum Fabricator](https://mods.factorio.com/mod/khaosmassive-quantum-fabricator)** - Digitizing chest is available
   from the start on Lignumis.
-- **[Sushi Splitters](https://mods.factorio.com/mod/khaosmassive-sushi-splitters)** - Adds sushi splitters for all vanilla
-  and modded belts.
 - **[Smart Inserters](https://mods.factorio.com/mod/khaosmassive-smart-inserters)** - Smart Inserters can already be
   researched on Lignumis.
+- **[Spoilage Solution](https://mods.factorio.com/mod/khaosmassive-spoilage-solution)** - Balanced way for canning and
+  freezing spoilable items.
+- **[Sushi Splitters](https://mods.factorio.com/mod/khaosmassive-sushi-splitters)** - Adds sushi splitters for all vanilla
+  and modded belts.
 
 ## Versioning
 

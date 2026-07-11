@@ -14,12 +14,14 @@
     "khaoslib >= 1.10.0",
 
     "? khaosmassive-factorissimo >= 1.1.2",
-    "? khaosmassive-frozen-food >= 1.1.0",
-    "? khaosmassive-frozen-goodies >= 1.0.0",
+    "? khaosmassive-frozen-food >= 1.1.1",
+    "? khaosmassive-frozen-goodies >= 1.0.1",
     "? khaosmassive-lane-balancers >= 1.0.0",
     "? khaosmassive-loaders-modernized >= 1.0.0",
     "? khaosmassive-quantum-fabricator >= 1.0.0",
     "? khaosmassive-smart-inserters >= 1.0.0",
+    "? khaosmassive-spoilage-solution >= 1.0.0",
+    "! spoilage-solution",
     "? khaosmassive-sushi-splitters >= 1.0.0",
 
     "! any-planet-start",
