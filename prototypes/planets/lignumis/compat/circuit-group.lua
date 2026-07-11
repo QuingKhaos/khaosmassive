@@ -1,12 +1,15 @@
+local khaoslib_item = require("__khaoslib__.prototypes.item")
+local khaoslib_recipe = require("__khaoslib__.prototypes.recipe")
+
 if settings.startup["Schall-CGP-individual-combinator-subgroups"] then
-  data.raw["item"]["burner-lamp"].subgroup = "circuit-visual-lamp"
-  data.raw["recipe"]["burner-lamp"].subgroup = "circuit-visual-lamp"
-  data.raw["recipe"]["burner-lamp-copper"].subgroup = "circuit-visual-lamp"
+  khaoslib_item:load("burner-lamp"):set {subgroup = "circuit-visual-lamp"} :commit()
+  khaoslib_recipe:load("burner-lamp"):set {subgroup = "circuit-visual-lamp"} :commit()
+  khaoslib_recipe:load("burner-lamp-copper"):set {subgroup = "circuit-visual-lamp"} :commit()
 else
-  data.raw["item"]["burner-lamp"].subgroup = "circuit-visual"
-  data.raw["recipe"]["burner-lamp"].subgroup = "circuit-visual"
-  data.raw["recipe"]["burner-lamp-copper"].subgroup = "circuit-visual"
+  khaoslib_item:load("burner-lamp"):set {subgroup = "circuit-visual"} :commit()
+  khaoslib_recipe:load("burner-lamp"):set {subgroup = "circuit-visual"} :commit()
+  khaoslib_recipe:load("burner-lamp-copper"):set {subgroup = "circuit-visual"} :commit()
 end
 
-data.raw["item"]["active-noise-cancelling-tower"].subgroup = "circuit-auditory"
-data.raw["recipe"]["active-noise-cancelling-tower"].subgroup = "circuit-auditory"
+khaoslib_item:load("active-noise-cancelling-tower"):set {subgroup = "circuit-auditory"} :commit()
+khaoslib_recipe:load("active-noise-cancelling-tower"):set {subgroup = "circuit-auditory"} :commit()

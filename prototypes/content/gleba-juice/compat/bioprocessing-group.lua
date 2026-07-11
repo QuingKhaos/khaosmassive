@@ -1,4 +1,5 @@
-local khaoslib_recipe = require("__khaoslib__.recipe")
+local khaoslib_item = require("__khaoslib__.prototypes.item")
+local khaoslib_recipe = require("__khaoslib__.prototypes.recipe")
 
 data:extend({
   {
@@ -9,7 +10,9 @@ data:extend({
   }
 })
 
-data.raw["item"]["carbon-bacteria"].subgroup = "gleba-juice"
+khaoslib_item:load("carbon-bacteria")
+  :set {subgroup = "gleba-juice"}
+  :commit()
 
 khaoslib_recipe:load("carbon-bacteria-breeding")
   :set {subgroup = "gleba-juice"}

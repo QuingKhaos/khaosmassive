@@ -1,5 +1,5 @@
-local khaoslib_entity = require("__khaoslib__.entity")
-local khaoslib_recipe = require("__khaoslib__.recipe")
+local khaoslib_entity = require("__khaoslib__.prototypes.entity")
+local khaoslib_recipe = require("__khaoslib__.prototypes.recipe")
 
 -- Increase energy usage to be more in line with advanced buildings
 khaoslib_entity:load("agricultural-tower", "agricultural-tower-mk2")
@@ -8,10 +8,10 @@ khaoslib_entity:load("agricultural-tower", "agricultural-tower-mk2")
 
 -- Create a more challenging recipe
 khaoslib_recipe:load("agricultural-tower-mk2")
-  :set_ingredients({
+  :set_ingredients {
     {type = "item", name = "raw-fish", amount = 1},
     {type = "item", name = "quantum-processor", amount = 5},
     {type = "item", name = "agricultural-tower", amount = 1},
     {type = "item", name = "pentapod-egg", amount = 20},
-  })
+  }
   :commit()

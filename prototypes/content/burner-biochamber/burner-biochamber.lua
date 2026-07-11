@@ -1,4 +1,4 @@
-local khaoslib_technology = require("__khaoslib__.technology")
+local khaoslib_technology = require("__khaoslib__.prototypes.technology")
 
 -- Lock burner biochamber behind Gleba research
 khaoslib_technology:load("biochamber")
@@ -7,14 +7,13 @@ khaoslib_technology:load("biochamber")
   end, {all = true})
   :commit()
 
-khaoslib_technology:load({
+khaoslib_technology:load {
   type = "technology",
   name = "burner-biochamber",
-  icons = {
-    {icon = "__space-age__/graphics/technology/biochamber.png", icon_size = 256, tint = {r = 0.3, g = 0.3, b = 0.3}},
-  },
-  prerequisites = {"agricultural-science-pack"},
-  unit = {
+} :set_icons {
+  {icon = "__space-age__/graphics/technology/biochamber.png", icon_size = 256, tint = {r = 0.3, g = 0.3, b = 0.3}},
+} :set_prerequisites {"agricultural-science-pack"}
+  :set_unit {
     time = 60,
     count = 1000,
     ingredients = {
@@ -26,7 +25,7 @@ khaoslib_technology:load({
       {"space-science-pack", 1},
       {"agricultural-science-pack", 1},
     },
-  },
-}):add_unlock_recipe("burner-biochamber")
+  }
+  :add_unlock_recipe("burner-biochamber")
   :add_unlock_recipe("burner-biochamber-to-biochamber")
   :commit()

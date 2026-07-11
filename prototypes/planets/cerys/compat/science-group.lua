@@ -1,4 +1,4 @@
-local khaoslib_recipe = require("__khaoslib__.recipe")
+local khaoslib_recipe = require("__khaoslib__.prototypes.recipe")
 
 -- Put space science pack recipe into the proper subgroup
 khaoslib_recipe:load("cerys-space-science-pack-from-methane-ice")

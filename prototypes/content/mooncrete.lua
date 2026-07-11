@@ -1,5 +1,5 @@
-local khaoslib_recipe = require("__khaoslib__.recipe")
-local khaoslib_technology = require("__khaoslib__.technology")
+local khaoslib_recipe = require("__khaoslib__.prototypes.recipe")
+local khaoslib_technology = require("__khaoslib__.prototypes.technology")
 
 -- Same walking speed as their concrete equivalents for mooncrete
 data.raw["tile"]["mooncrete"].walking_speed_modifier = data.raw["tile"]["concrete"].walking_speed_modifier
@@ -20,23 +20,21 @@ khaoslib_recipe:load("refined-mooncrete")
 khaoslib_technology:load {
   type = "technology",
   name = "mooncrete",
-  icon = "__khaosmassive__/graphics/mooncrete/mooncrete_tech.png",
-  icon_size = 256,
-  prerequisites = {
-    "muluna-regolith-digging",
-    "muluna-alumina-processing",
-    "wood-gas-processing",
-    "space-science-pack",
-  },
-  unit = {
-    time = 30,
-    count = 100,
-    ingredients = {
-      {"automation-science-pack", 1},
-      {"logistic-science-pack", 1},
-      {"chemical-science-pack", 1},
-      {"space-science-pack", 1},
-    },
+} :set_icons {
+  {icon = "__khaosmassive__/graphics/mooncrete/mooncrete_tech.png", icon_size = 256},
+} :set_prerequisites {
+  "muluna-regolith-digging",
+  "muluna-alumina-processing",
+  "wood-gas-processing",
+  "space-science-pack",
+} :set_unit {
+  time = 30,
+  count = 100,
+  ingredients = {
+    {"automation-science-pack", 1},
+    {"logistic-science-pack", 1},
+    {"chemical-science-pack", 1},
+    {"space-science-pack", 1},
   },
 } :add_unlock_recipe("mooncrete")
   :add_unlock_recipe("refined-mooncrete")

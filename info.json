@@ -4,16 +4,16 @@
   "description": "Combines most modded planets and other content into a coherent gaming experience.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "2.7.0",
+  "version": "2.7.1",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
     "space-age >= 2.0.77",
 
     "cf-lib >= 1.6.0",
-    "khaoslib >= 1.5.0",
+    "khaoslib >= 1.10.0",
 
-    "? khaosmassive-factorissimo >= 1.1.0",
+    "? khaosmassive-factorissimo >= 1.1.2",
     "? khaosmassive-frozen-food >= 1.0.2",
     "? khaosmassive-frozen-goodies >= 1.0.0",
     "? khaosmassive-lane-balancers >= 1.0.0",

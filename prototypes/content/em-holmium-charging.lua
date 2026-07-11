@@ -1,4 +1,4 @@
-local khaoslib_technology = require("__khaoslib__.technology")
+local khaoslib_technology = require("__khaoslib__.prototypes.technology")
 
 -- Update prerequisites and science packs to note that it requires the foundry
 khaoslib_technology:load("solid-state-holmium-refining")
