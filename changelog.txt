@@ -1,4 +1,15 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.9.0
+Date: ????
+  Features:
+    - Add Gleba Lab.
+    - Add Slipstack Agriculture to Gleba.
+    - Add Gleba Uranium.
+    - Add Fluroflux: Stingfrond Agriculture to Gleba.
+    - Add Boompuff Agriculture to Gleba.
+  Compatibility:
+    - Add optional Quality Seeds mod to dependencies.
+---------------------------------------------------------------------------------------------------
 Version: 2.8.1
 Date: 2026-07-11
   Bugfixes:

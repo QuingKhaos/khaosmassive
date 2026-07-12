@@ -4,14 +4,14 @@
   "description": "Combines most modded planets and other content into a coherent gaming experience.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "2.8.1",
+  "version": "2.9.0",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
     "space-age >= 2.0.77",
 
     "cf-lib >= 1.6.0",
-    "khaoslib >= 1.12.0",
+    "khaoslib >= 1.13.0",
 
     "? khaosmassive-factorissimo >= 1.1.2",
     "? khaosmassive-frozen-food >= 1.1.1",
@@ -20,13 +20,14 @@
     "? khaosmassive-loaders-modernized >= 1.0.0",
     "? khaosmassive-quantum-fabricator >= 1.0.0",
     "? khaosmassive-smart-inserters >= 1.0.0",
-    "? khaosmassive-spoilage-solution >= 1.0.0",
+    "? khaosmassive-spoilage-solution >= 1.1.0",
     "! spoilage-solution",
     "? khaosmassive-sushi-splitters >= 1.0.0",
 
     "! any-planet-start",
     "AsteroidBelt >= 1.2.10",
     "Better_Starmap_Background >= 2.3.0",
+    "poison-immune-asteroids >= 0.1.0",
     "redrawn-space-compat-fixes >= 1.0.48",
     "visible-planets >= 1.7.2",
     "vp-scale >= 1.4.1",
@@ -44,8 +45,15 @@
     "em-holmium-charging >= 1.0.0",
 
     "agri-tower-mk2 >= 0.2.0",
+    "biouranium >= 1.0.0",
+    "boompuff-agriculture >= 1.1.0",
     "burnerBiochamber >= 1.0.6",
+    "fluroflux >= 1.0.2",
     "gleba-juice >= 1.0.0",
+    "gleba-lab >= 1.0.1",
+    "? quality-seeds >= 1.3.0",
+    "! quality-seeds-fork",
+    "slipstacks >= 1.0.0",
     "wood-pyrolysis >= 1.2.1",
 
     "carbonut_agriculture >= 0.4.0",

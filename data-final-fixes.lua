@@ -4,9 +4,13 @@ require("__khaosmassive__.prototypes.content.agricultural-tower-mk2.agricultural
 
 require("__khaosmassive__.prototypes.content.burner-biochamber.burner-biochamber")
 
+require("__khaosmassive__.prototypes.content.boompuff-agriculture")
+
 require("__khaosmassive__.prototypes.content.carbonut-agriculture")
 
 require("__khaosmassive__.prototypes.content.em-holmium-charging")
+
+require("__khaosmassive__.prototypes.content.fluroflux")
 
 require("__khaosmassive__.prototypes.content.gleba-juice.compat.bioprocessing-group")
 

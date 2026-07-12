@@ -17,6 +17,9 @@ Settings.force("astroponics-crude-oil", true)
 Settings.force("asteroid-belt-1-enabled", false)
 Settings.force("asteroid-belt-2-enabled", false)
 
+-- Boompuff Agriculture
+Settings.force("spoiled-explosions", true)
+
 -- Burner Biochamber
 Settings.forceDefault("bbio-fuel-consumption")
 Settings.forceDefault("bbio-pollution")
@@ -95,6 +98,12 @@ Settings.forceDefault("override-space-connection")
 
 -- pHactorio
 Settings.force("s6x-ph-voiding-recipes", false)
+
+-- Quality Seeds
+if mods["quality-seeds"] then
+  Settings.force("balanced-seeds-mode", true)
+  Settings.force("cultivators-anywhere", false)
+end
 
 -- Science group
 Settings.force("science-tab-always-move-labs", true)
