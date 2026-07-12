@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 2.9.0
-Date: ????
+Date: 2026-07-12
   Features:
     - Add Gleba Lab.
     - Add Slipstack Agriculture to Gleba.
